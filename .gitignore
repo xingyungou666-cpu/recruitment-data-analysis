@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# IDE
+.idea/
+.vscode/
+
+# Environment
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+tmp/
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+# Local dataset
+data_process/skill_data.csv
